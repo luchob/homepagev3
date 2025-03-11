@@ -1,0 +1,80 @@
+= Hello!
+:icons:
+
+My name is Lachezar Balev and this is my humble asciidoc personal page.
+Below are some links and professional information about me.
+
+== More about me
+
+
+image:./images/li.png[link="https://www.linkedin.com/in/lachezar-balev/"]
+image:./images/gh.png[link="https://github.com/luchob"]
+image:./images/so.png[link=https://stackoverflow.com/users/520359/lachezar-balev]
+
+== Short CV
+
+NOTE: *Jul 2017 - Present* +
+Software Developer +
+REWE Digital Bulgaria
+
+NOTE: *May 2021 - Jun 2024* +
+Technical Instructor +
+Software University +
+
+NOTE: *Oct 2007 - Jun 2017* +
+Software Developer +
+Intershop Communications +
+
+NOTE: *Apr 2002 - Sep 2007* +
+Software Developer +
+GIPS GROUPGIPS GROUP +
+
+NOTE: *Sep 2000 - Mar 2002* +
+Software Developer +
+ICYGEN
+
+
+== Udemy
+
+I'm extremely excited because my first Udemy course is almost ready. I hope to release it in March 2025. Stay tuned.
+
+== Asciiwhat?
+
+Asciidoc. This is a plain text markup language for writing technical content. I used it to generate my page. It looks very simplistic. https://github.com/luchob/homepagev3[Here.]
+
+[pass]
+++++
+<script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "WebSite",
+      "url": "http://balev.eu/",
+      "name": "Lachezar Balev - Homepage",
+      "author": {
+        "@type": "Person",
+        "name": "Lachezar Balev"
+      },
+      "description": "Lachezar Balev, software developer."
+    }
+  </script>
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Person",
+      "image": "http://balev.eu/assets/lb-jprime.jpg",
+      "jobTitle": "Software engineer",
+      "name": "Lachezar Balev",
+      "alumniOf": "Technical University Sofia",
+      "birthPlace": "Sofia, Bulgaria",
+      "gender": "male",
+      "nationality": "Bulgaria",
+      "url": "http://balev.eu",
+      "sameAs" : [
+        "https://stackoverflow.com/users/520359/lachezar-balev",
+        "https://www.linkedin.com/in/lachezar-balev-a151626/",
+        "https://github.com/luchob"
+      ]
+    }
+  </script>
+++++
