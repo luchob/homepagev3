@@ -1,6 +1,9 @@
 = Hello!
 :icons:
 :last-update-label!:
+:title: Lachezar Balev's home page.
+:description: Lachezar Balev's personal page
+:keywords: Lachezar Balev, software developer, personal page
 
 My name is Lachezar Balev and this is my humble asciidoc personal page.
 Below are some links and professional information about me.
