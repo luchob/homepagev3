@@ -1,5 +1,6 @@
 = Hello!
 :icons:
+:last-update-label!:
 
 My name is Lachezar Balev and this is my humble asciidoc personal page.
 Below are some links and professional information about me.
