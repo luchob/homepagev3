@@ -40,11 +40,12 @@ ICYGEN
 
 == Udemy
 
-I'm extremely excited because my first Udemy course is almost ready. I hope to release it in March 2025. Stay tuned.
+I'm extremely excited about my link:https://www.udemy.com/course/spring-framework-di/?referralCode=863C74A59C93304B09B6[Udemy course,window="_blank"]!
+You can also visit its official link:https://github.com/luchob/udemy-spring-core[GitHub repo,window="_blank"].
 
 == Asciiwhat?
 
-Asciidoc. This is a plain text markup language for writing technical content. I used it to generate my page. It looks very simplistic. https://github.com/luchob/homepagev3[Here.]
+Asciidoc. This is a plain text markup language for writing technical content. I used it to generate my page. It looks very simplistic. link:https://github.com/luchob/homepagev3[Here.,window="_blank"]
 
 [pass]
 ++++
