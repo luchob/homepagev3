@@ -14,6 +14,8 @@ Below are some links and professional information about me.
 image:./images/li.png[link="https://www.linkedin.com/in/lachezar-balev/"]
 image:./images/gh.png[link="https://github.com/luchob"]
 image:./images/so.png[link=https://stackoverflow.com/users/520359/lachezar-balev]
+image:./images/youtube.png[link=https://www.youtube.com/@lachezarbalev]
+
 
 == Short CV
 
@@ -42,6 +44,7 @@ ICYGEN
 
 I'm extremely excited about my link:https://www.udemy.com/course/spring-framework-di/?referralCode=863C74A59C93304B09B6[Udemy course,window="_blank"]!
 You can also visit its official link:https://github.com/luchob/udemy-spring-core[GitHub repo,window="_blank"].
+If you find that useful I also started posting occasionally technical videos in my link:https://www.youtube.com/@lachezarbalev[YouTube channel,window="_blank"].
 
 == Asciiwhat?
 
@@ -78,7 +81,8 @@ Asciidoc. This is a plain text markup language for writing technical content. I 
       "sameAs" : [
         "https://stackoverflow.com/users/520359/lachezar-balev",
         "https://www.linkedin.com/in/lachezar-balev-a151626/",
-        "https://github.com/luchob"
+        "https://github.com/luchob",
+        "https://www.youtube.com/@lachezarbalev"
       ]
     }
   </script>
